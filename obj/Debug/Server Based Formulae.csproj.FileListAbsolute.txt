@@ -1,0 +1,96 @@
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Sample_Ex.exe.config
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\dotNetRDF.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\HtmlAgilityPack.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\IronPython.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\IronPython.Modules.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\IronPython.SQLite.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\IronPython.Wpf.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Microsoft.Dynamic.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Newtonsoft.Json.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\VDS.Common.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Lucene.Net.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\dotNetRDF.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\dotNetRDF.Query.FullText.pdb
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\dotNetRDF.Query.FullText.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\dotNetRDF.Sparql.Core.pdb
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\dotNetRDF.Sparql.Core.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\HtmlAgilityPack.pdb
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\HtmlAgilityPack.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\IronPython.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\IronPython.Modules.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\IronPython.SQLite.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\IronPython.Wpf.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Microsoft.Dynamic.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Newtonsoft.Json.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\VDS.Common.pdb
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\VDS.Common.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Server Based Formulae.csprojAssemblyReference.cache
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Sample_Ex.Properties.Resources.resources
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Sample_Ex.Tcp_Messaging.resources
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Server Based Formulae.csproj.GenerateResource.cache
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Server Based Formulae.csproj.CopyComplete
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Sample_Ex.HTTP_Web.resources
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Sample_Ex.Search.resources
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\Swashbuckle.Core.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\System.Net.Http.Formatting.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\System.Web.Http.dll
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\System.Net.Http.Formatting.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\bin\Debug\System.Web.Http.xml
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Sample_Ex.ServerBasedFormulae.resources
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Sample_Ex.mainForm.resources
+E:\Second Semester\Software Development Technologies\Formulae receiving and handling\Hagos_Formulae_App\obj\Debug\Sample_Ex.TCPBasedFormulae.resources
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Sample_Ex.exe.config
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\dotNetRDF.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\HtmlAgilityPack.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\IronPython.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\IronPython.Modules.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\IronPython.SQLite.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\IronPython.Wpf.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Microsoft.Dynamic.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Microsoft.Scripting.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Newtonsoft.Json.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Swashbuckle.Core.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\System.Net.Http.Formatting.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\System.Web.Http.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\VDS.Common.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Lucene.Net.dll
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\dotNetRDF.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\dotNetRDF.Query.FullText.pdb
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\dotNetRDF.Query.FullText.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\dotNetRDF.Sparql.Core.pdb
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\dotNetRDF.Sparql.Core.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\HtmlAgilityPack.pdb
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\HtmlAgilityPack.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\IronPython.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\IronPython.Modules.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\IronPython.SQLite.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\IronPython.Wpf.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Microsoft.Dynamic.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Microsoft.Scripting.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\Newtonsoft.Json.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\System.Net.Http.Formatting.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\System.Web.Http.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\VDS.Common.pdb
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\bin\Debug\VDS.Common.xml
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\obj\Debug\Server Based Formulae.csprojAssemblyReference.cache
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\obj\Debug\Sample_Ex.HTTP_Web.resources
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\obj\Debug\Sample_Ex.Search.resources
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\obj\Debug\Sample_Ex.mainForm.resources
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\obj\Debug\Sample_Ex.Properties.Resources.resources
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\obj\Debug\Sample_Ex.Tcp_Messaging.resources
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\obj\Debug\Server Based Formulae.csproj.GenerateResource.cache
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\obj\Debug\Server Based Formulae.csproj.CopyComplete
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\obj\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Searching application\Hagos_Search_App\obj\Debug\Sample_Ex.pdb
